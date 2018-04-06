@@ -1,3 +1,3 @@
-# This repository has python scripts and evaluation metrics for the wave model.
+# Wave model and aerosol parameterization scripts.
 
 March 16, 2018
